@@ -12,4 +12,4 @@ Don't forget to update this file after fixing the code.
 
 ## Solution
 
-Added ToList() method 
+Added ToList() method
